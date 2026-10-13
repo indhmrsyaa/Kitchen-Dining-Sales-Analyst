@@ -30,7 +30,7 @@ The workflow includes data cleaning in Microsoft Excel, data storage and SQL-bas
 
 The dataset contains sales transaction records for kitchen and dining products, including information about orders, product names, product categories, shipping addresses, sales values, transaction limits, and order statuses.
 
-- **Data Source:** [Insert dataset source or download link]
+- **Data Source:** Bootcamp Data Analyst Karirnex BATCH 6
 - **Data Preparation:** Microsoft Excel
 - **Data Storage & Analysis:** Google BigQuery
 - **Dashboard Tool:** Google Looker Studio 
@@ -142,7 +142,7 @@ Based on the dashboard, the following insights were identified:
 - **Microsoft Excel** — Data cleaning, text standardization, data type correction, and city extraction.
 - **Google BigQuery** — Dataset storage and SQL-based data analysis.
 - **SQL** — Aggregation, grouping, filtering, and sales performance analysis.
-- **Microsoft Power BI** — KPI monitoring, trend analysis, and data visualization (update if needed).
+- **Google Looker Studio** — KPI monitoring, trend analysis, and data visualization (update if needed).
 
 ## 📈 Key Skills Demonstrated
 
