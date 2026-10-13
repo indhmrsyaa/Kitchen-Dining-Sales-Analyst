@@ -33,7 +33,7 @@ The dataset contains sales transaction records for kitchen and dining products, 
 - **Data Source:** [Insert dataset source or download link]
 - **Data Preparation:** Microsoft Excel
 - **Data Storage & Analysis:** Google BigQuery
-- **Dashboard Tool:** Microsoft Power BI (update if a different tool was used)
+- **Dashboard Tool:** Google Looker Studio 
 
 ### Key Data Fields
 
@@ -45,8 +45,6 @@ The dataset includes fields related to:
 - Shipping addresses and city information
 - Order status
 - Transaction limits
-
-*Note: Update this section to match the exact column names in the original dataset and cleaned table.*
 
 ## 🧹 Data Cleaning & Preparation
 
@@ -109,7 +107,7 @@ The dashboard provides an overview of kitchen and dining sales performance in 20
 
 ![Kitchen & Dining Sales Dashboard 2025](kitchen-dining-sales-dashboard.png)
 
-*Place your dashboard screenshot at `images/kitchen-dining-sales-dashboard.png`, or update the image path to match your repository.*
+LINK (https://datastudio.google.com/reporting/cfa00563-2be1-43e4-9b66-8abc7e079b1e)
 
 ## 💡 Business Insights
 
@@ -121,8 +119,6 @@ Based on the dashboard, the following insights were identified:
 - **Top-Selling Products:** Mesin Kopi Espresso Rumahan recorded the highest sales, followed by Food Processor and Oven Listrik.
 - **Geographical Sales Distribution:** Sales were concentrated in several cities, highlighting opportunities to evaluate regional demand and develop targeted marketing strategies.
 - **Transaction Distribution:** Normal transactions accounted for a larger order volume than big transactions, providing an opportunity to investigate strategies that encourage higher-value purchases.
-
-*Note: These insights reflect the values displayed in the dashboard. Validate city rankings, product figures, and transaction-level metrics against the cleaned dataset before making operational decisions.*
 
 ## 🚀 Business Recommendations
 
@@ -172,8 +168,6 @@ Kitchen-Dining-Sales-Analysis/
 ├── kitchen-dining-sales-dashboard.png  
 └── README.md
 ```
-
-*This is a suggested structure. Adjust file and folder names to match the actual contents of your repository.*
 
 ## 👤 Author
 
