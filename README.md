@@ -107,7 +107,7 @@ The dashboard provides an overview of kitchen and dining sales performance in 20
 
 ### Dashboard Preview
 
-![Kitchen & Dining Sales Dashboard 2025](images/kitchen-dining-sales-dashboard.png)
+![Kitchen & Dining Sales Dashboard 2025](kitchen-dining-sales-dashboard.png)
 
 *Place your dashboard screenshot at `images/kitchen-dining-sales-dashboard.png`, or update the image path to match your repository.*
 
@@ -168,7 +168,7 @@ Kitchen-Dining-Sales-Analysis/
 │   └── Toko Peralatan Dapur.csv
 │   └── Toko Peralatan Dapur - Clean.csv
 ├── SQL/
-│   └── Query.md
+│   └── Query.sql
 ├── kitchen-dining-sales-dashboard.png  
 └── README.md
 ```
