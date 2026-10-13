@@ -66,9 +66,18 @@ Data cleaning was performed using Microsoft Excel before uploading the dataset t
    Created a new category column based on predefined product classification rules.
 
    **Product categorization rules:**
-   - [Insert category rule 1]
-   - [Insert category rule 2]
-   - [Insert category rule 3]
+| **Category** | **Category Clean** |
+|---|---|
+| Category | Alat Masak |
+| Peralatan Masak | Alat Masak |
+| Cookware | Alat Masak |
+| Alat Potong | Alat Masak |
+| Bakeware | Alat Masak |
+| Elektronik Dapur | Alat Masak |
+| Peralatan Saji | Alat Saji |
+| Peralatan Minum | Alat Saji |
+| Penyimpanan | Alat Simpan |
+| Aksesori Dapur | Alat Simpan |
 
 6. **Validating Cleaned Data**  
    Reviewed the cleaned data to ensure consistent formatting, appropriate data types, and accurate values before uploading it to BigQuery.
@@ -162,7 +171,7 @@ Based on the dashboard, the following insights were identified:
 Kitchen-Dining-Sales-Analysis/
 ├── data/
 │   └── Toko Peralatan Dapur.csv
-│   └── Toko Peralatan Dapur - Clean.csv
+│   └── Toko Peralatan Dapur - Clean.xlsx
 ├── SQL/
 │   └── Query.sql
 ├── kitchen-dining-sales-dashboard.png  
