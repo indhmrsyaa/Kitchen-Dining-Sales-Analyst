@@ -181,7 +181,7 @@ Kitchen-Dining-Sales-Analysis/
 
 ## 👤 Author
 
-**Indah Marsya Fitadea
+**Indah Marsya Fitadea**
 
 Aspiring Data Analyst
 
